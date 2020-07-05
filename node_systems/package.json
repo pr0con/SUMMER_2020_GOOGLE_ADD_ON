@@ -1,0 +1,19 @@
+{
+  "name": "node_systems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^52.1.0",
+    "save": "^2.4.0",
+    "uWebSockets.js": "github:uNetworking/uWebSockets.js#v18.3.0",
+    "uuid": "^8.2.0"
+  }
+}
